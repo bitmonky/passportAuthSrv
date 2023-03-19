@@ -65,7 +65,7 @@ var server = https.createServer(options, (req, res) => {
       }
     }  
     else {
-      res.end('Wellcome To The BitMonky Proxy Server\nUse end point /netREQ\n');
+      res.end('Wellcome To The BitMonky Passport Auth Server\nUse end point /netREQ\n');
     }
   }
 });
