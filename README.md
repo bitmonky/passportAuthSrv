@@ -1,2 +1,2 @@
 # passportAuthSrv
-A Node JS server to authenticat bmgpPassport Logins
+A Node JS server to authenticate bmgpPassport Logins
